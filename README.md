@@ -87,5 +87,3 @@ A web-based **Tourist Management System (TMS)** developed in PHP that allows use
 --
 
 ---
-
-Feel free to reach out for any queries or improvements to this system!
