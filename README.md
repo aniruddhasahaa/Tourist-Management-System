@@ -1,6 +1,6 @@
 # Tourist Management System
 
-A web-based Tourist Management System(TMS) developed in PHP that allows users to browse, book, and manage their tours online. It provides a user-friendly interface for browsing available tours, viewing details, making bookings, and managing personal profiles. The system also allows administrators to manage tours, bookings, and user information.
+A web-based **Tourist Management System (TMS)** developed in PHP that allows users to browse, book, and manage their tours online. It provides a user-friendly interface for browsing available tours, viewing details, making bookings, and managing personal profiles. The system also allows administrators to manage tours, bookings, and user information.
 
 ## Features
 
